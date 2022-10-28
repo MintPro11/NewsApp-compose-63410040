@@ -1,0 +1,38 @@
+package com.example.news_app.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Purple200 = Color(0xFFBB86FC)
+val Purple500 = Color(0xFF6200EE)
+val Purple700 = Color(0xFF3700B3)
+val Teal200 = Color(0xFF03DAC5)
+
+val Green50 = Color(0xFFFFFFFF)
+val Green100 = Color(0xFFC8E6C9)
+val Green200 = Color(0xFFA5D6A7)
+val Green300 = Color(0xFF81C784)
+val Green400 = Color(0xFF66BB6A)
+val Green500 = Color(0xFF4CAF50)
+val Green600 = Color(0xFF43A047)
+val Green700 = Color(0xFF388E3C)
+val Green800 = Color(0xFF2E7D32)
+val Green900 = Color(0xFF1B5E20)
+val GreenA100 = Color(0xFFB9F6CA)
+val GreenA200 = Color(0xFF69F0AE)
+val GreenA400 = Color(0xFF00E676)
+val GreenA700 = Color(0xFF00C853)
+
+val LightGreen50 = Color(0xFFF1F8E9)
+val LightGreen100 = Color(0xFFDCEDC8)
+val LightGreen200 = Color(0xFFC5E1A5)
+val LightGreen300 = Color(0xFFAED581)
+val LightGreen400 = Color(0xFF9CCC65)
+val LightGreen500 = Color(0xFF8BC34A)
+val LightGreen600 = Color(0xFF7CB342)
+val LightGreen700 = Color(0xFF689F38)
+val LightGreen800 = Color(0xFF558B2F)
+val LightGreen900 = Color(0xFF33691E)
+val LightGreenA100 = Color(0xFFCCFF90)
+val LightGreenA200 = Color(0xFFB2FF59)
+val LightGreenA400 = Color(0xFF76FF03)
+val LightGreenA700 = Color(0xFF64DD17)
